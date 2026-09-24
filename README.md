@@ -2,7 +2,7 @@
 
 # BrickedBrick
 
-**systems · GPUs · reverse engineering · browser/native ports · protocols**
+**systems · GPUs · reverse engineering · ports · protocols**
 
 I build low-level software that usually isn't supposed to run where I put it.
 
