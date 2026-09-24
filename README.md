@@ -4,7 +4,7 @@
 
 **systems · GPUs · reverse engineering · ports · protocols**
 
-I build low-level software that usually isn't supposed to run where I put it.
+> Starts Shit and Quits before the vision is seen.
 
 <img src="https://skillicons.dev/icons?i=rust,ts,java,c,linux,git,githubactions" alt="Rust, TypeScript, Java, C, Linux, Git, GitHub Actions" />
 
